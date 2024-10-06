@@ -1,0 +1,22 @@
+# Ambiente virtuale
+venv/
+
+# File di cache Python
+__pycache__/
+*.py[cod]
+
+# File di sistema
+.DS_Store
+
+# File di configurazione IDE
+.vscode/
+.idea/
+
+# File di log
+*.log
+
+# File temporanei
+*.tmp
+
+# File di database SQLite
+*.sqlite3
